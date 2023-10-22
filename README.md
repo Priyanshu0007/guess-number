@@ -58,7 +58,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd restaurant-landing-page
+  cd guess-number
 ```
 
 Install dependencies
